@@ -76,9 +76,9 @@ Source for licensing information: <a href="https://opensource.org/licenses/MIT">
 
 ## Screenshots
 
-Screenshot of :
+Screenshot of budget tracker app:
 
-<img src='' alt = ''>
+<img src='public\images\screenshot.png' alt = 'Screenshot of budget tracker app'>
 
 ## URLs
 
