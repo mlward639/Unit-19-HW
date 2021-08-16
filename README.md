@@ -50,8 +50,6 @@ Libraries:
 - Lite-server as a lightweight development web server with support for Single Page Apps
 - Compression to decrease our payload size to improve performance of the Node.js application
 
-\***_ In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module._**
-
 ## Contribution Guidelines
 
 Utilize <a href= "https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md">The Contributor Covenant</a> as reference for appropriate contribution guidelines.
@@ -84,4 +82,4 @@ Screenshot of budget tracker app:
 
 <a href="https://github.com/mlward639/Unit-19-HW">Link to GitHub Repository</a>
 
-<a href="#">Link to Deployed Heroku Site</a>
+<a href="https://gentle-wave-69721.herokuapp.com/">Link to Deployed Heroku Site</a>
